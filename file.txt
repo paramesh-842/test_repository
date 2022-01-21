@@ -4,5 +4,9 @@ banana
 appl
 hdkvjfn
 guava
-strawberry
-mango
+stra
+manigo
+fork 
+clone
+messy 
+
